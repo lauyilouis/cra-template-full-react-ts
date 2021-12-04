@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-full-react-ts",
+  "version": "0.1.0-alpha",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "redux",
+    "@reduxjs/toolkit",
+    "react-redux",
+    "react-router-dom",
+    "@mui/material",
+    "styled-components"
+  ],
+  "author": "lauyilouis",
+  "description": "The CRA template with everything you need to start building a scalable production grade React app.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lauyilouis/cra-template-full-react-ts"
+  },
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

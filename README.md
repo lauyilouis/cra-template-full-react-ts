@@ -88,11 +88,6 @@ It is done by distributing components into 2 scopes:
 1. Global - Consumed by whole app or multiple scopes. (i.e. `src/ui/components`)
 2. Local - Consumed by a single component or scope. (e.g. `src/ui/components/layout/Layout/components`)
 
-## For yarn user
-There is a eslint error to be fixed for first time setup. For workaround:
-1. Remove `node_modules` and `yarn.lock`.
-2. Run `yarn`.
-
 ## For more information, please refer to:
 
 - [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.

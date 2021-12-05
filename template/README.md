@@ -22,12 +22,17 @@ The template is using popular tech of the React community.
 7. Comprehensive examples for demonstrations.
 
 ## Get started
+### Local development
 
 1. run `npm install`
 2. run `npm start`
 3. If you are using VSCode, install the following extensions:
 3.1. ESLint [https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint]  
 3.2. vscode-styled-components [https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components]
+### For yarn user
+There is a eslint error to be fixed for first time setup. For workaround:
+1. Remove `node_modules` and `yarn.lock`.
+2. Run `yarn`.
 
 ## Initial template structure
 ### Skeleton

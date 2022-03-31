@@ -1,9 +1,9 @@
 # cra-template-full-react-ts
-The CRA template with everything you need to start building a scalable production grade React app.
+The CRA template with everything you need to start building a scalable production grade React app. For the linked npm pacakge, refer to [https://www.npmjs.com/package/cra-template-full-react-ts](https://www.npmjs.com/package/cra-template-full-react-ts).
 
 ## Get started
 The template for [Create React App](https://github.com/facebook/create-react-app) (based on [cra-template-redux-typescript](https://github.com/reduxjs/cra-template-redux-typescript)).
-To use this template within your project, add `--template full-react-ts` when creating a new app. For the linked npm pacakge, refer to [here](https://www.npmjs.com/package/cra-template-full-react-ts)
+To use this template within your project, add `--template full-react-ts` when creating a new app.
 For example:
 ```sh
 npx create-react-app my-app --template full-react-ts
